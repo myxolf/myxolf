@@ -1,3 +1,4 @@
 -  Hello! I’m @myxolf
 - there's nothing here for now sorry
-✨✨✨✨✨✨✨✨✨✨sO aEsThEtIc
+- ✨✨✨✨✨✨✨✨✨✨sO aEsThEtIc
+- I'm learning bash at the moment.
